@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Murphy Song
 - 👩🏻‍💻 I major in Human Computer Interaction and minor in Computer Science @UCSD
-- 🎨 My portfolio: https://r2song.wixsite.com/murphy 
+- 🎨 My portfolio: https://acupofmurphy.editorx.io/murphysong 
 - Nice to meet u :D
 
 <!---
