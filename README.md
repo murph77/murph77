@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Murphy Song
-- 👩🏻‍💻 I major in Human Computer Interaction and minor in Computer Science @UCSD
+- 👋 Hi, I’m Murphy Song, a UI/UX designer
+- 👩🏻‍💻 I majored in Human Computer Interaction with a minor in Computer Science @UCSD
 - Nice to meet u :D
 
 <!---
